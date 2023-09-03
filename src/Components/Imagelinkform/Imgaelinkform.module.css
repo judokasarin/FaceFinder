@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.headtext{
+    font-size: 0.7em;
+    color: bisque;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+}
